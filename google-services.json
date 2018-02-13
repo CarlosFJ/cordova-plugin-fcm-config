@@ -1,3 +1,135 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "336950451687",
+    "firebase_url": "https://ebanq-b611f.firebaseio.com",
+    "project_id": "ebanq-b611f",
+    "storage_bucket": "ebanq-b611f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336950451687:android:764d2cb7da3280eb",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336950451687-3jgvrsp5k3ab762u58fg4qket3bggvfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD25o4dN13W_FZan1yMpIYX4VnxPenZ3UQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336950451687:android:4c40b21376e6b701",
+        "android_client_info": {
+          "package_name": "com.emergya.ebanq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336950451687-3jgvrsp5k3ab762u58fg4qket3bggvfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD25o4dN13W_FZan1yMpIYX4VnxPenZ3UQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336950451687:android:3ff5adffcd1077c0",
+        "android_client_info": {
+          "package_name": "com.spirits.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336950451687-3jgvrsp5k3ab762u58fg4qket3bggvfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD25o4dN13W_FZan1yMpIYX4VnxPenZ3UQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336950451687:android:88782377b270072c",
+        "android_client_info": {
+          "package_name": "com.ebanq.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336950451687-3jgvrsp5k3ab762u58fg4qket3bggvfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD25o4dN13W_FZan1yMpIYX4VnxPenZ3UQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }

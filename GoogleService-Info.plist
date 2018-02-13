@@ -1,1 +1,40 @@
-<!-- Dummy GoogleService-Info file !! replace with your configuration -->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>336950451687-0507511v9sptbshdt034oqn100mpgdr6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.336950451687-0507511v9sptbshdt034oqn100mpgdr6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB-94LAorUvX3YSN3em0G5_Xp4WrD-r6Dk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>336950451687</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ebanq.test</string>
+	<key>PROJECT_ID</key>
+	<string>ebanq-b611f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ebanq-b611f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:336950451687:ios:88782377b270072c</string>
+	<key>DATABASE_URL</key>
+	<string>https://ebanq-b611f.firebaseio.com</string>
+</dict>
+</plist>
